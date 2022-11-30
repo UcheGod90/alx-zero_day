@@ -1,0 +1,12 @@
+Git command line used
+git checkout
+git add
+git pull
+git status
+git branch
+git commit
+git push
+git config
+git --set-upstream
+git --unset-upstream
+
