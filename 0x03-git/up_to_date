@@ -1,1 +1,10 @@
-The git command line used is touch.
+The git command line used 
+git pull
+git push
+git checkout
+git branch
+git --set-upstream
+git add
+git config
+git commit
+git --unset-upstream
